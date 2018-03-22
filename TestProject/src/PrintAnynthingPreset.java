@@ -5,7 +5,7 @@ public class PrintAnynthingPreset {
 		System.out.println("Olka");
 	}
 	
-	public static void printItAgain() {
+	public static void print() {
 		System.out.println("OlkaOlkaOlkaOlkaOlkaOlka");
 	}
 	
